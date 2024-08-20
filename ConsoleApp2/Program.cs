@@ -30,7 +30,7 @@ namespace ConsoleApp2
         static void PaginaDoProf()
         {
 
-            string[] opcoesDoProf = { "Dados do Aluno", "Notas do Aluno", "Presença Do aluno" };
+            string[] opcoesDoProf = { "Dados do Alun", "Notas do Aluno", "Presença Do aluno" };
             string imagem = "";
             Menu menu = new Menu();
             Program program = new Program();
